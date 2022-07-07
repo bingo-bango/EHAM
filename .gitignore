@@ -3,3 +3,4 @@
 .platformio*
 *.code-workspace
 .vscode
+playground
